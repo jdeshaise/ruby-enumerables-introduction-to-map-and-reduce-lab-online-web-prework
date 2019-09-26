@@ -1,3 +1,4 @@
 # My Code here....
-( map negative-size) =[1,2,3] = [-1, -2, -3]
- y=mx+b =>
+ Array =[1,2,3] 
+"negativize function" =[-1,-2,-3]
+ 
