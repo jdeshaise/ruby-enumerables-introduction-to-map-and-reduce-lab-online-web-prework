@@ -1,1 +1,3 @@
 # My Code here....
+( map negative-size) =[1,2,3] = [-1, -2, -3]
+ y=mx+b =>
